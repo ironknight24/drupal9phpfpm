@@ -2,13 +2,13 @@
 
 namespace Drupal\admin_toolbar_search\Controller;
 
-use Drupal\admin_toolbar_search\SearchLinks;
 use Drupal\Core\Controller\ControllerBase;
+use Drupal\admin_toolbar_search\SearchLinks;
 use Symfony\Component\DependencyInjection\ContainerInterface;
 use Symfony\Component\HttpFoundation\JsonResponse;
 
 /**
- * Class AdminToolbarSearchController.
+ * Class AdminToolbarSearchController to the search functionality.
  *
  * @package Drupal\admin_toolbar_tools\Controller
  */
